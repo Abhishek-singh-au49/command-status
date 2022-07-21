@@ -1,2 +1,2 @@
 # command-status
-command repo
+command repo for git command demonstration
